@@ -6,3 +6,5 @@
 This repository contains my solution to assignment 1 - making a VR app.    
 
 Tech used: Unity, Google VR SDK
+
+Feel free to email me for comments/questions -> [akshit.arora@colorado.edu](mailto:akshit.arora@colorado.edu) 
